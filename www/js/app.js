@@ -1,7 +1,7 @@
 window.curentLoadBase = false; //ожидание загрузки данных в кеш-базу
 window.curentLang = 'ru'; //язык по умолчанию
 window.mlfConfig = {
-	startUrl: 'https://redkovka.by/app/kn_rasp_v3/', //стартовый адрес
+	startUrl: 'https://redkovka.by/app/kn_rasp_v4/', //стартовый адрес
 	deviceId: '', //ид устройства
 	connection: false, //статус соединения
 	version: localStorage.getItem('version'),
